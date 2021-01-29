@@ -161,6 +161,7 @@ Use the game function below to do the following:
   
   HINT: Remember that the order in which we pass in our arguments matters when it comes to parameters
 */
+// eslint-disable-next-line no-unused-vars
 var rando = Math.random()*3;
 function game(user, computer){
   let win = "you win!";
@@ -275,6 +276,7 @@ Using the vowelCounter function below do the following:
 */
 
 
+// eslint-disable-next-line no-unused-vars
 function vowelCounter(/*add your code here*/) {
     /*add your code here*/
 }
